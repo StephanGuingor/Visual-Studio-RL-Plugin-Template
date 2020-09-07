@@ -1,0 +1,9 @@
+Air Recovery plugin
+3|Angular bump speed|air_recovery_bumpspeed_angular|-20|20
+3|Linear bump speed (x&y)|air_recovery_bumpspeed_linear|0|3000
+3|Linear bump speed (z)|air_recovery_bumpspeed_linear_z|-2000|2000
+3|Cooldown time|air_recovery_cooldown|0|10000
+0|Start|air_recovery_start
+7
+0|Stop|air_recovery_stop
+9|This plugin was made by StephanGF
